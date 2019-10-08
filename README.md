@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img src="https://github.com/Buliceli/ld_shops/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%207%20-%202019-10-08%20at%2009.46.09.png" alt="" width="375">
+
+<img src="https://github.com/Buliceli/ld_shops/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%207%20-%202019-10-08%20at%2009.46.25.png" alt="" width="375">
+
+<img src="https://github.com/Buliceli/ld_shops/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%207%20-%202019-10-08%20at%2009.46.43.png" alt="" width="375">
+
+<img src="https://github.com/Buliceli/ld_shops/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%207%20-%202019-10-08%20at%2009.46.46.png" alt="" width="375">
+
+<img src="https://github.com/Buliceli/ld_shops/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%207%20-%202019-10-08%20at%2009.46.49.png" alt="" width="375">
